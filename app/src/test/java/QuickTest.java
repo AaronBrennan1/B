@@ -1,8 +1,8 @@
 import org.junit.jupiter.api.Test;
 import org.joda.time.DateTime;
 import static org.junit.jupiter.api.Assertions.*;
-import a.Student;
-import a.Lecturer;
+// import a.Student;
+// import a.Lecturer;
 public class QuickTest 
 {
   @Test void testStudentInfo() {
